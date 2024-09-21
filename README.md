@@ -1,0 +1,3 @@
+Image Super-Resolution using SRGANs (Super-Resolution Generative Adversarial Networks) is a deep learning approach to enhance the resolution of low-quality images. SRGANs utilize two neural networks: a generator that upsamples the input image to a higher resolution, and a discriminator that evaluates the quality of the generated image against real high-resolution images. This adversarial training enables the model to produce sharper, more realistic images, making SRGANs highly effective in improving image details in applications like medical imaging, video enhancement, and satellite imagery.
+Below is the link to dataset Used:
+https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution/data
